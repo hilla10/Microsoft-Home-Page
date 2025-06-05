@@ -1,23 +1,18 @@
-#Microsoft-Home-Page
-
-### <h2>Live Demo</h2> <h3>[Microsoft-Home-Page](https://ms-homepage-project.netlify.app/)</h3>
-
-![microhome]
 
 # Microsoft Homepage Clone
 
 A front-end clone of the official Microsoft homepage built for learning and practice purposes.  
-🌐 [Live Site](https://github.com/hilla10/Microsoft-Home-Page/assets/120259753/0b1bb735-9a56-4452-b1c4-ce247a1d0f42)
+🌐 [Live Site](https://ms-homepage-project.netlify.app/)
 
 ## 📸 Preview
 
-![Microsoft Clone Screenshot](./screenshot.png) <!-- Replace with actual image path if available -->
+![Microsoft Clone Screenshot](https://github.com/hilla10/Microsoft-Home-Page/assets/120259753/0b1bb735-9a56-4452-b1c4-ce247a1d0f42)<!-- Replace with actual image path if available -->
 
 ## 🚀 Technologies Used
 
 - HTML5
-- CSS3 / Tailwind CSS (or Bootstrap, if used)
-- JavaScript (Vanilla JS or any framework like React)
+- CSS3 
+- JavaScript
 
 ## 📂 Project Features
 
@@ -48,7 +43,7 @@ URL: [https://ms-homepage-project.netlify.app](https://ms-homepage-project.netli
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/ms-homepage-clone.git
+git clone https://github.com/hilla10/Microsoft-Home-Page.git
 
 # Navigate into the project directory
 cd ms-homepage-clone
